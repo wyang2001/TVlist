@@ -1,0 +1,703 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="未分类",大爱2台
+http://59.125.101.187:8758/http/192.168.77.24:8081/hls/75/817/ch60.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",正德佛教
+http://59.125.101.187:8756/http/192.168.77.24:8081/hls/64/806/ch16.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",人间卫视
+http://59.125.101.187:8757/http/192.168.77.24:8081/hls/69/811/ch36.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",非凡商业
+http://59.125.101.187:8730/http/192.168.77.24:8081/hls/74/816/ch56.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",非凡新闻
+http://59.125.101.187:8706/http/192.168.77.24:8081/hls/75/817/ch57.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",华视新闻
+http://59.125.101.187:8704/http/192.168.77.24:8081/hls/75/817/ch58.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",亚洲旅游
+http://59.125.101.187:8744/http/192.168.77.24:8081/hls/76/818/ch61.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",环宇新闻
+http://59.125.101.187:8709/http/192.168.77.24:8081/hls/76/818/ch62.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",环宇新闻
+http://59.125.101.187:8709/http/192.168.77.24:8066/hls/210/10016/cstv16.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",ELEVEN 2
+http://59.125.101.187:8768/http/192.168.77.24:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",龙华戏剧
+http://59.125.101.187:8764/http/192.168.77.24:8066/hls/210/10010/cstv10.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",龙华日韩
+http://59.125.101.187:8763/http/192.168.77.24:8066/hls/210/10011/cstv11.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",龙华偶像
+http://59.125.101.187:8762/http/192.168.77.24:8066/hls/210/10012/cstv12.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",龙华卡通
+http://59.125.101.187:8761/http/192.168.77.24:8066/hls/210/10013/cstv13.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",龙华电影
+http://59.125.101.187:8768/http/192.168.77.24:8066/hls/210/10014/cstv14.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",博斯运动I
+http://59.125.101.187:8764/http/192.168.77.24:8066/hls/210/10018/cstv18.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",博斯运动II
+http://59.125.101.187:8768/http/192.168.77.24:8081/hls/61/803/ch04.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",探索发现
+http://59.125.101.187:8710/http/192.168.77.24:8081/hls/71/813/ch44.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",国家地理
+http://59.125.101.187:8709/http/192.168.77.24:8081/hls/61/803/ch01.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",动物星球
+http://59.125.101.187:8719/http/192.168.77.24:8088/hls/70/812/ch37.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",TLC旅游生活
+http://59.125.101.187:8774/http/192.168.77.24:8081/hls/70/812/ch38.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",HBO
+http://59.125.101.187:8757/http/192.168.77.24:8081/hls/71/813/ch41.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",霹雳台湾
+http://59.125.101.187:8768/http/192.168.77.24:8081/hls/75/817/ch59.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",CINEMAX
+http://59.125.101.187:8761/http/192.168.77.24:8081/hls/71/813/ch42.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",AXN
+http://59.125.101.187:8759/http/192.168.77.24:8081/hls/71/813/ch43.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",Animax
+http://59.125.101.187:8744/http/192.168.77.24:8081/hls/70/812/ch39.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",好莱坞电影
+http://59.125.101.187:8754/http/192.168.77.24:8081/hls/74/816/ch55.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",StarWorld
+http://59.125.101.187:8761/http/192.168.77.24:8081/hls/61/803/ch02.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",CNBC
+http://59.125.101.187:8708/http/192.168.77.24:8078/hls/24/80/cnbc90.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",NHK新闻
+http://59.125.101.187:8706/http/192.168.77.24:8081/hls/62/804/ch06.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",卫视中文
+http://59.125.101.187:8720/http/192.168.77.24:8081/hls/62/804/ch05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",卫视电影
+http://59.125.101.187:8753/http/192.168.77.24:8081/hls/62/804/ch07.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",卫视电影GOLD
+http://59.125.101.187:8745/http/192.168.77.24:8081/hls/62/804/ch08.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",东森幼幼
+http://59.125.101.187:8725/http/192.168.77.24:8081/hls/63/805/ch09.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",东森新闻
+http://59.125.101.187:8702/http/192.168.77.24:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",东森财经
+http://59.125.101.187:8770/http/192.168.77.24:8081/hls/63/805/ch11.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",东森综合
+http://59.125.101.187:8771/http/192.168.77.24:8081/hls/63/805/ch12.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",东森戏剧
+http://59.125.101.187:8772/http/192.168.77.24:8081/hls/64/806/ch13.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",东森超视
+http://59.125.101.187:8768/http/192.168.77.24:8081/hls/64/806/ch14.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",三立新闻
+http://59.125.101.187:8756/http/192.168.77.24:8081/hls/65/807/ch18.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",三立都会
+http://59.125.101.187:8732/http/192.168.77.24:8081/hls/65/807/ch19.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",三立台湾
+http://59.125.101.187:8731/http/192.168.77.24:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",八大综合
+http://59.125.101.187:8768/http/192.168.77.24:8081/hls/66/808/ch21.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",八大一台
+http://59.125.101.187:8770/http/192.168.77.24:8081/hls/66/808/ch22.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",八大戏剧
+http://59.125.101.187:8771/http/192.168.77.24:8081/hls/66/808/ch23.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",壹新闻
+http://59.125.101.187:8710/http/192.168.77.24:8081/hls/66/808/ch24.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",中天新闻
+http://59.125.101.187:8703/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",中天综合
+http://59.125.101.187:8733/http/192.168.77.24:8081/hls/67/809/ch25.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",中天娱乐
+http://59.125.101.187:8734/http/192.168.77.24:8081/hls/67/809/ch26.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",国兴卫视
+http://59.125.101.187:8775/http/192.168.77.24:8081/hls/64/806/ch15.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",东风卫视
+http://59.125.101.187:8719/http/192.168.77.24:8081/hls/68/810/ch31.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",纬来综合
+http://59.125.101.187:8770/http/192.168.77.24:8081/hls/68/810/ch32.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",纬来日本
+http://59.125.101.187:8771/http/192.168.77.24:8081/hls/69/811/ch34.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",纬来戏剧
+http://59.125.101.187:8756/http/192.168.77.24:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",纬来电影
+http://59.125.101.187:8710/http/192.168.77.24:8081/hls/69/811/ch35.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",纬来育乐
+http://59.125.101.187:8762/http/192.168.77.24:8081/hls/68/810/ch30.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",纬来体育
+http://59.125.101.187:8763/http/192.168.77.24:8081/hls/67/809/ch28.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",JET综合
+http://59.125.101.187:8719/http/192.168.77.24:8081/hls/74/816/ch54.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",Baby TV
+http://59.125.101.187:8770/http/192.168.77.24:8078/hls/35/80/babytv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",momo亲子台
+http://59.125.101.187:8740/http/192.168.77.24:8081/hls/70/812/ch40.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",年代MuchTV
+http://59.125.101.187:8729/http/192.168.77.24:8081/hls/72/814/ch45.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",年代新闻
+http://59.125.101.187:8701/http/192.168.77.24:8081/hls/67/809/ch27.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",台视
+http://59.125.101.187:8702/http/192.168.77.24:8081/hls/72/814/ch46.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",中视
+http://59.125.101.187:8712/http/192.168.77.24:8081/hls/72/814/ch47.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",华视
+http://59.125.101.187:8713/http/192.168.77.24:8088/hls/72/814/ch48.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",民视
+http://59.125.101.187:8714/http/192.168.77.24:8081/hls/73/815/ch49.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",民视新闻
+http://59.125.101.187:8704/http/192.168.77.24:8081/hls/73/815/ch51.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",公视
+http://59.125.101.187:8705/http/192.168.77.24:8081/hls/73/815/ch50.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",大爱1台
+http://59.125.101.187:8706/http/192.168.77.24:8081/hls/73/815/ch52.m3u8
+#EXTINF:-1 tvg-logo="" group-title="未分类",BANG BROS FHD
+http://ott3.alwaysdata.net/live/lv.php?id=35
+#EXTINF:-1 tvg-logo="" group-title="未分类",BHOT FHD
+http://ott3.alwaysdata.net/live/lv.php?id=75
+#EXTINF:-1 tvg-logo="" group-title="未分类",BRAZZERS FHD
+http://ott3.alwaysdata.net/live/lv.php?id=22
+#EXTINF:-1 tvg-logo="" group-title="未分类",CBLISS 4K
+http://ott3.alwaysdata.net/live/lv.php?id=72
+#EXTINF:-1 tvg-logo="" group-title="未分类",DDF NETWORK FHD
+http://ott3.alwaysdata.net/live/lv.php?id=17
+#EXTINF:-1 tvg-logo="" group-title="未分类",EROX FHD
+http://ott3.alwaysdata.net/live/lv.php?id=96
+#EXTINF:-1 tvg-logo="" group-title="未分类",FAKE TAXI FHD
+http://ott3.alwaysdata.net/live/lv.php?id=02
+#EXTINF:-1 tvg-logo="" group-title="未分类",HARD X FHD
+http://ott3.alwaysdata.net/live/lv.php?id=18
+#EXTINF:-1 tvg-logo="" group-title="未分类",HiTZEFREi! FHD
+http://ott3.alwaysdata.net/live/lv.php?id=20
+#EXTINF:-1 tvg-logo="" group-title="未分类",HOLED.COM FHD
+http://ott3.alwaysdata.net/live/lv.php?id=21
+#EXTINF:-1 tvg-logo="" group-title="未分类",HOTGUYS FUCK FHD
+http://ott3.alwaysdata.net/live/lv.php?id=23
+#EXTINF:-1 tvg-logo="" group-title="未分类",JAPANHDV FHD
+http://ott3.alwaysdata.net/live/lv.php?id=25
+#EXTINF:-1 tvg-logo="" group-title="未分类",LEO TV FHD
+http://ott3.alwaysdata.net/live/lv.php?id=01
+#EXTINF:-1 tvg-logo="" group-title="未分类",lesbea.com FHD
+http://ott3.alwaysdata.net/live/lv.php?id=27
+#EXTINF:-1 tvg-logo="" group-title="未分类",LETHAL PASS FHD
+http://ott3.alwaysdata.net/live/lv.php?id=29
+#EXTINF:-1 tvg-logo="" group-title="未分类",METART.COM FHD
+http://ott3.alwaysdata.net/live/lv.php?id=33
+#EXTINF:-1 tvg-logo="" group-title="未分类",MYLF FHD
+http://ott3.alwaysdata.net/live/lv.php?id=16
+#EXTINF:-1 tvg-logo="" group-title="未分类",MYLF.COM FHD
+http://ott3.alwaysdata.net/live/lv.php?id=36
+#EXTINF:-1 tvg-logo="" group-title="未分类",NAUGHTY AMERICA FHD
+http://ott3.alwaysdata.net/live/lv.php?id=37
+#EXTINF:-1 tvg-logo="" group-title="未分类",NUBILES FHD
+http://ott3.alwaysdata.net/live/lv.php?id=38
+#EXTINF:-1 tvg-logo="" group-title="未分类",PLAY BOY FHD
+http://ott3.alwaysdata.net/live/lv.php?id=42
+#EXTINF:-1 tvg-logo="" group-title="未分类",PRIVATE FHD
+http://ott3.alwaysdata.net/live/lv.php?id=45
+#EXTINF:-1 tvg-logo="" group-title="未分类",PublicAgent FHD
+http://ott3.alwaysdata.net/live/lv.php?id=46
+#EXTINF:-1 tvg-logo="" group-title="未分类",REALITY KINGS 2FHD
+http://ott3.alwaysdata.net/live/lv.php?id=48
+#EXTINF:-1 tvg-logo="" group-title="未分类",REALITY KINGS 3FHD
+http://ott3.alwaysdata.net/live/lv.php?id=49
+#EXTINF:-1 tvg-logo="" group-title="未分类",REALITY KINGS FHD
+http://ott3.alwaysdata.net/live/lv.php?id=47
+#EXTINF:-1 tvg-logo="" group-title="未分类",REDXXX FHD
+http://ott3.alwaysdata.net/live/lv.php?id=81
+#EXTINF:-1 tvg-logo="" group-title="未分类",TINY  4K
+http://ott3.alwaysdata.net/live/lv.php?id=58
+#EXTINF:-1 tvg-logo="" group-title="未分类",TUSHY FHD
+http://ott3.alwaysdata.net/live/lv.php?id=61
+#EXTINF:-1 tvg-logo="" group-title="未分类",TUSHY RAW FHD
+http://ott3.alwaysdata.net/live/lv.php?id=62
+#EXTINF:-1 tvg-logo="" group-title="未分类",VIVID RED FHD
+http://ott3.alwaysdata.net/live/lv.php?id=64
+#EXTINF:-1 tvg-logo="" group-title="未分类",VIXEN FHD
+http://ott3.alwaysdata.net/live/lv.php?id=65
+#EXTINF:-1 tvg-logo="" group-title="未分类",WHITEBOXXX FHD
+http://ott3.alwaysdata.net/live/lv.php?id=67
+#EXTINF:-1 tvg-logo="" group-title="未分类",WICKED FHD
+http://ott3.alwaysdata.net/live/lv.php?id=68
+#EXTINF:-1 tvg-logo="" group-title="未分类",xyMAX FHD
+http://ott3.alwaysdata.net/live/lv.php?id=86
+#EXTINF:-1 tvg-logo="" group-title="未分类",xyMIX FHD
+http://ott3.alwaysdata.net/live/lv.php?id=87
+#EXTINF:-1 tvg-logo="" group-title="未分类",xyPLUS FHD
+http://ott3.alwaysdata.net/live/lv.php?id=88
+#EXTINF:-1 tvg-logo="" group-title="未分类",两只兔子 FHD
+http://ott3.alwaysdata.net/live/lv.php?id=60
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V7DEzNK.png" group-title="ARGENTINA",Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1,Top Latino TV
+https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8
+#EXTINF:-1,Tv Exitos
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
+#EXTINF:-1,Hits 360
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QISHhp6.png" group-title=, 88 STEREO
+ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1,Best Cable Music
+ https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/q2lfDgx.png" group-title=,ZAPPING MUSIC
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/C4sc9nI.png" group-title=,PORTAL FOXMIX
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w2046621552.m3u8
+#EXTINF:-1,Furia TV
+https://5790d294af2dc.streamlock.net/8060/8060/playlist.m3u8
+#EXTINF:-1,Reactiva Television
+https://stmv.negotv.com/activaespanol/activaespanol/chunklist_w1587017392.m3u8
+#EXTINF:-1,Alternativa TV
+ https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8
+#EXTINF:-1,Alegria TV
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
+#EXTINF:-1,Vallenato
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1 tvg-id="MiGenteTV.co" tvg-name="Mi Gente TV" tvg-country="ARGENTINA" tvg-language="ARGENTINA" tvg-logo="" group-title="",Mi Gente TV
+https://hvtrafico.ddns.net/migente720/migente720.stream/playlist.m3u8
+#EXTINF:-1,retro tv
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/p22Yewv.png" group-title=,CATEDRAL DO ROCK TV
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bh8rmNJ.png" group-title="ARGENTINA",Tierramia TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nL6jAcH.png" group-title="ARGENTINA",Argentinisima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ATB.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/DCAtokY.png" group-title="",ATB
+http://186.121.206.197/live/daniel/index.m3u8
+#EXTINF:-1,Telemix
+https://panel.dattalive.com/8068/8068/chunklist_w2020940786.m3u8
+#EXTINF:-1,Autonomia TV
+ https://5eff35271151c.streamlock.net:1936/8144/8144/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="ARGENTINA",CN 24/7
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="ARGENTINA",Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fp9ReNL.png" group-title="ARGENTINA",Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1,CGTN
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="ARGENTINA", France 24 Español
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:-1, CNN En Español
+https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png", TV Publica
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zUUuNTp.png" group-title="ARGENTINA",Canal 26 HD
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
+#EXTINF:-1,A24
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+#EXTINF:-1 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="ARGENTINA", Cronica HD
+https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="ARGENTINA", IP
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/mirador.png" group-title="ARGENTINA", MIRADOR
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tectv.gob.ar/resources/img/logo.png" group-title="ARGENTINA", TEC TV
+https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
+#EXTINF:-1,America TV
+https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+#EXTINF:-1,America TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1,Telefe
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+#EXTINF:-1,El Trece
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TKz6Ilb.png" group-title="ARGENTINA",Canal 3 Rosario
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+#EXTINF:-1,Telefe
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8LPw-2NROAydBROCEBS7Vh2pGq4r_ecijUDPNjVXKcitaXEnojMVM3Nsh2SWR9brUJW0&usqp=ARGENTINA" group-title="ARGENTINA", SANTA FE CANAL
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ_400x400.jpg" group-title="ARGENTINA",Litus TV Santa Fe
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1,Telpin TV
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w202901411_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jSaViwT.png" group-title="ARGENTINA",Multivision Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-2-Jujuy-en-vivo-Online.png?fit=1920,1080&ssl=1" group-title="ARGENTINA", Canal 2 Jujuy
+http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nKdVqnU.png" group-title="ARGENTINA",Canal 4 Jujuy
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+#EXTINF:-1,Canal 7 Jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
+#EXTINF:-1, Power TV HD
+https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Zaidk6n.png" group-title="ARGENTINA",Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mgmL8cb_jtc/XjtDrQ3HzaI/AAAAAAAAvpI/tgRhGRWSXnsz9hvxd4oPgM16JpByuhRzwCK8BGAsYHg/s0/2020-02-05.png" group-title="ARGENTINA", CHACO TV
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BB4EjGp.png" group-title="ARGENTINA",Ciudad TV Chaco
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Tv-rionegrina-lu92-tv-canal-10-logo.png" group-title="ARGENTINA",Canal 10 Rio Negro
+https://59c5c86e10038.streamlock.net/8204/8204/chunklist_w47008160.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RnyIM39.png" group-title="ARGENTINA",Canal 12 Puerto Madryn
+https://59db7e671a1ad.streamlock.net/madryntv/madryntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uIybnaG.png" group-title="ARGENTINA",Canal 13 La Rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Utvqt7.png" group-title="ARGENTINA",Rtn Neuquen
+http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/byxXHzq.png" group-title="ARGENTINA",TeleNord Corrientes
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dSFNbqn.png" group-title="ARGENTINA",5TV Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="ARGENTINA", 13 Max Corrientes
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M4pdL75.png" group-title="ARGENTINA",Chacra TV
+http://s8.stweb.tv:1935/chacra/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BDufSyu.png" group-title="ARGENTINA",Eco TV Tandil
+http://mediacontrol.jargon.com.ar:1935/elecotv/elecotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="ARGENTINA", Canal De La Ciudad
+https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8
+#EXTINF:-1,Comedy Central
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
+#EXTINF:-1,Magazine
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
+#EXTINF:-1,Del Sur TV
+https://cnnsanjuan.com:9999/live/delsurtv/playlist.m3u8
+#EXTINF:-1,Gourmet
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/El_Gourmet/SA_SAGEMCOM/El_Gourmet.m3u8
+#EXTINF:-1,Food Network
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
+#EXTINF:-1,Encuentro
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
+#EXTINF:-1,CineAR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="ARGENTINA",televida
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
+#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/logo-neo-tv_orig.png" group-title="ARGENTINA", NEO TV DIGITAL
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="ARGENTINA", GEN TV
+https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="ARGENTINA", KZO
+http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
+#EXTINF:-1,Orbe 21
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
+#EXTINF:-1,Presidential
+https://5790d294af2dc.streamlock.net/8042/8042/playlist.m3u8
+#EXTINF:-1, E!
+https://edge2-ccastsl.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television.m3u8
+#EXTINF:-1, Glitz
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Glitz/SA_SAGEMCOM/Glitz.m3u8
+#EXTINF:-1,¡HOLA! PLAY
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,¡Hola!TV
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
+#EXTINF:-1,Euro Channel
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Eurochannel/SA_SAGEMCOM/Eurochannel.m3u8
+#EXTINF:-1,Europa Europa
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Europa_Europa/SA_SAGEMCOM/Europa_Europa.m3u8
+#EXTINF:-1,TVE
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/TV_Espana/SA_SAGEMCOM/TV_Espana.m3u8
+#EXTINF:-1,Atres Cine
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
+#EXTINF:-1,A3Cine
+https://edge-live11-sl.cvattv.com.ar/live/c7eds/A3_Cine/SA_SAGEMCOM/A3_Cine.m3u8
+#EXTINF:-1,A3S Int
+https://edge-live11-sl.cvattv.com.ar/live/c7eds/A3_Series/SA_SAGEMCOM/A3_Series.m3u8
+#EXTINF:-1,Tele
+http://190.210.221.119/Processor3_11_chunklist_b1300000.m3u8
+#EXTINF:-1,Decadas
+https://5790d294af2dc.streamlock.net/8218/8218/playlist.m3u8
+#EXTINF:-1,INWONDER
+https://inwonder-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1,Prende TV Cineclub
+https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
+#EXTINF:-1,Prende TV Romance
+https://linear-194.frequency.stream/194/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="MundoMas.co" tvg-name="Mundo Mas" tvg-country="ARGENTINA" tvg-language="ARGENTINA" tvg-logo="https://i.imgur.com/CREs19T.png" group-title="",Mundo Mas
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1 tvg-id="NoticiasCaracol.co" tvg-name="Noticias Caracol" tvg-country="ARGENTINA" tvg-language="ARGENTINA" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/589b13f631f1bebd088ff756.png" group-title="ARGENTINA",Noticias Caracol
+http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="Señal Colombia" tvg-country="ARGENTINA" tvg-language="ARGENTINA" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="ARGENTINA",Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Trece2017.png/150px-Trece2017.png",canal trece col
+https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/chunklist_b2250000.m3u8
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/hmtv.jpg",hm tv
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://fuego40.com/wp-content/uploads/2018/11/cropped-cropped-ARREGLO-1-768x349.png",fuego tv
+https://video.misistemareseller.com/Fuegotv/Fuegotv/chunklist_w1482703670.m3u8
+#EXTINF:-1,Tu Cine
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-plexA/CDN/1920x1080_5055600/index.m3u8
+#EXTINF:-1,Cine Real
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinereal-plex/CDN/1920x1080_5055600/index.m3u8
+#EXTINF:-1,Top cine
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-plex/CDN/1920x1080_5605600/index.m3u8
+#EXTINF:-1,Cine Sureño
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-plex/CDN/1920x1080_5605600/index.m3u8
+#EXTINF:-1,planeta TV
+https://live.obslivestream.com/planetatvmux/index.m3u8
+#EXTINF:-1 tvg-id="1016" tvg-name="Planetatv Movie" tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png", Planetatv
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
+#EXTINF:-1 tvg-id="1015" tvg-name="ARGENTINA" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", Planetatv Movie
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+#EXTINF:-1,viwix TV
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-country="ARGENTINA" tvg-language="ARGENTINA" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="ARGENTINA",BHTV
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-6 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/1200px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png" group-title="ARGENTINA", MI TV
+https://tigocloud.desdeparaguay.net/mitv/mitv/chunklist_w680215671.m3u8
+#EXTINF:-1,Emprende TV
+https://stmv.negotv.com/feyprosperidad/feyprosperidad/chunklist_w419891425.m3u8
+#EXTINF:-1,La Tele
+https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
+#EXTINF:-1,Telefuturo
+https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
+#EXTINF:-1,Sur
+https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_SAGEMCOM/SUR_TV_C4.m3u8
+#EXTINF:-1,SNT
+https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
+#EXTINF:-1,Paravision
+https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_SAGEMCOM/PARAVISION_C4.m3u8
+#EXTINF:-1,PYTV
+https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_SAGEMCOM/Paraguay_TV.m3u8
+#EXTINF:-1,RPC
+https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8
+#EXTINF:-1,Unicanal
+https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_SAGEMCOM/UNICANAL_C4.m3u8
+#EXTINF:-1,5Dias
+https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_SAGEMCOM/5_Dias_PY.m3u8
+#EXTINF:-1,Somos Del Este
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+#EXTINF:-1,PLUS
+http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w1287862831.m3u8
+#EXTINF:-1,Best Cable TV
+ https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
+#EXTINF:-1,ATV HD
+ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
+#EXTINF:-1,ATV MAS
+ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png" group-title="ARGENTINA", ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+#EXTINF:-1 tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png" group-title="ARGENTINA", WOW
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-country="ARGENTINA" tvg-language="ARGENTINA" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" group-title="",San Isidro TV
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="PuntaCanaTV.do" tvg-country="ARGENTINA" tvg-language="ARGENTINA" tvg-logo="https://pbs.twimg.com/profile_images/735482998372630529/bEgiPOU1_400x400.jpg" group-title="",Punta Cana TV
+https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
+#EXTINF:-1 tvg-id="VallevisionCanal10.do" group-title="ARGENTINA" tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/do-vallevision-canal-10-9607-300x225.jpg" group-title="",Vallevision
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-country="ARGENTINA" tvg-language="ARGENTINA" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="ARGENTINA",AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1,Estrellas
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Las Estrellas
+http://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
+#EXTINF:-1,Telemundo
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
+#EXTINF:-1,Pasiones
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
+#EXTINF: -1,Nuestra Vision
+https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
+#EXTINF: -1,Teleunion HD
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+#EXTINF: -1,Canal 74 HD
+https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-1, CANALE FLEGREO
+http://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/index.m3u8
+#EXTINF:-1, A&E
+https://edge-live11-sl.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
+#EXTINF:-1, AXN
+https://edge-live11-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
+#EXTINF:-1, Cinecanal
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+#EXTINF:-1,Star Channel
+http://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+#EXTINF:-1,FX
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
+#EXTINF:-1,HBO
+https://edge2-ccast-sl.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+#EXTINF:-1,HBO 2
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+#EXTINF:-1,HBO Family
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+#EXTINF:-1,HBO Plus
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+#EXTINF:-1,HBO Xtreme
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+#EXTINF:-1,HBO Signature
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u
+#EXTINF:-1,HBO Mundi
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+#EXTINF:-1,HBO POP
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+#EXTINF:-1,Space
+https://edge2-ccast-sl.cvattv.com.ar//live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
+#EXTINF:-1,TNT
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+#EXTINF:-1,TNT Series
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+#EXTINF:-1,TruTV
+https://edge2-ccast-sl.cvattv.com.ar//live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
+#EXTINF:-1,TCM
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM.m3u
+#EXTINF:-1,Syfy
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
+#EXTINF:-1,TBS
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
+#EXTINF:-1,Sony
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
+#EXTINF:-1,Studio Universal
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
+#EXTINF:-1,Paramount
+https://edge-live11-sl.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
+#EXTINF:-1,Warner TV
+https://edge-live11-sl.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+#EXTINF:-1,Discovery Channel
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
+#EXTINF:-1,Animal Planet
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
+#EXTINF:-1,Discovery H&H
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+#EXTINF:-1,Discovery ID
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
+#EXTINF:-1,Discovery Turbo
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
+#EXTINF:-1,TLC
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
+#EXTINF:-1,Discovery World
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
+#EXTINF:-1,Discovery Theater
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8
+#EXTINF:-1,HGTV Latino
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
+#EXTINF:-1,Nat Geo
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+#EXTINF:-1,Nat Geo Wild
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
+#EXTINF:-1, NATGEO
+http://51.79.18.128:8081/LATINO|NATGEOMUNDO/LATINO|NATGEOMUNDO/playlist.m3u8
+#EXTINF:-1,History
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
+#EXTINF:-1,History 2
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
+#EXTINF:-1,Sun Channel
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Sun_Channel/SA_SAGEMCOM/Sun_Channel.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="ARGENTINA", PAKA PAKA
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_f331914d260442069047f8fd3f5b90e5~mv2.png/v1/fill/w_96,h_72,al_c,q_85,usm_0.66_1.00_0.01/Mosca-1280x720_color_edited%20editado_edit.webp" group-title="ARGENTINA", PEQUERADIO
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83648_Canal_IPE.png" group-title="ARGENTINA", CANAL IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="ARGENTINA",LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1,Juntos TV
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-plex/CDN/1920x1080_5605600/index.m3u8
+#EXTINF:-1, Cartoonito
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
+#EXTINF:-1, Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+#EXTINF:-1, Cartoon Network
+https://edge2-ccast-sl.cvattv.com.ar//live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
+#EXTINF:-1, Disney Channel
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+#EXTINF:-1, Disney JR
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
+#EXTINF:-1, Discovery Kids
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
+#EXTINF:-1, Nickelodeon
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
+#EXTINF:-1, Nick JR
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
+#EXTINF:-1, Tooncast
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/BXnUONl.png",DIRECTV SPORTS
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/BXnUONl.png",DIRECTV SPORTS
+http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/ThPdqNU.png",Automoto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="ARGENTINA",Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_(2020_Logo_oficial).png" group-title="ARGENTINA", DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1, CLARO SPORT
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+#EXTINF:-1,TYC SPORTS
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=ARGENTINA" group-title="ARGENTINA", TyC SPORT PLAY
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
+#EXTINF:-1,TyC SPORT PLAY
+http://194.67.196.19:80/hls/103.m3u8
+#EXTINF:-1,ESPN
+http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
+#EXTINF:-1,ESPN 2 HD
+https://edge7-ccast-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+#EXTINF:-1,ESPN 3
+https://edge7-ccast-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+#EXTINF:-1,ESPN EXTRA
+https://edge7-ccast-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
+#EXTINF:-1,Fox Sports
+http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+#EXTINF:-1,Fox Sports 2
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+#EXTINF:-1,Fox Sports 3
+http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+#EXTINF: -1 group-title = "ARGENTINA" tvg-logo = "https://innovatv.live/posters/1615526945127.png", ESPN PREMIUM
+http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+#EXTINF:-1,TNT SPORTS
+http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Monterrico_TV_(ID_2018).jpg/revision/latest/scale-to-width-down/250?cb=20180413165129",monterrico tv
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1,Win Sports
+http://194.67.196.19:80/hls/102.m3u8
+#EXTINF:-1,TV LIGA MX
+https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
+#EXTINF:-1,Best Cable Sports
+ https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:-1,NBA TV
+http://edge2-ccast-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/pggeczF.jpg",World Of Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1,REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 , DDSPORTS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 , CBS NFL
+http://194.67.196.19/hls/108.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1200px-MLS_crest_logo_RGB_gradient.svg.png",MLS TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1,STADIUM
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_700k.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://127.0.0.1/",STADIUM
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+#EXTINF:-1 , MAV TV
+https://mavtv-mavtvglobal-1-gb.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 , MAV TV
+https://mavtv-mavtvglobal-1-au.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 , MAV TV 1
+https://mavtv-1-us.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="ARGENTINA" group-title="ARGENTINA",ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:0 tvg-logo="ARGENTINA" group-title="ARGENTINA", SWISS SPORTS
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
+#EXTINF:-1 tvg-logo="ARGENTINA" group-title="ARGENTINA", FIGHT BOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-logo="ARGENTINA" group-title="ARGENTINA",FIGHT SPORTS
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1,Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_404.m3u8
+#EXTINF:-1,Local now
+https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist_640x360.m3u8
+#EXTINF:-1,wbz
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b850000.m3u8
+#EXTINF:-1,lsqv
+http://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/index_600_av-p.m3u8?
+#EXTINF:-1,hsn
+http://html5-lh.akamaihd.net/i/html5_01@182967/index_1000_av-p.m3u8?
+#EXTINF:-1,123 TV
+http://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/86600ed6f09e4bf48be4e55a0cd01536.webp",récord News br
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2020/05/Rede-TV-.jpg",rede tv - es tv pampa br
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="Variedades", Rede Brasil (SP)
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dateame.co/public/storage/media/20200717_tve_brasil.jpg",tve br
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/9/9/csm_7012-1071_import_47ed313a6e.png", sbt - go br
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480p.m3u8
+#EXTINF:-1,Brasil Oeste
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="",TV Cultura - TV Guará
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQREA1jkjJBICLk_nKIJdXjzD22HUkEDifmumIPUx_PjvW68LAxeLqC5aYueIw_3VpINPw&usqp=CAU",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="", Mundo TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8#EXTINF:-1,ESPN BRASIL
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
+#EXTINF:-1,ESPN BRASIL 2
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8
+#EXTINF:-1,ESPN BRASIL 4
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
+#EXTINF:-1,SPORTV  BRASIL
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
+#EXTINF:-1,SPORTV 2 BRASIL
+https://newedge.eu-central-1.edge.mycdn.live:443/live/sportv224ha/sportv224ha_2000/index.m3u8
